@@ -1,0 +1,8 @@
+PyQt5==5.15.9
+opencv-python==4.8.1.78
+ultralytics==8.0.196
+easyocr==1.7.1
+numpy==1.24.4
+python-dateutil==2.8.2
+reportlab==4.0.4
+Pillow==10.0.1
